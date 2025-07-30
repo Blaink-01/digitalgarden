@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/locais/poeira-vermelha/"}
+{"dg-publish":true,"permalink":"/locais/poeira-vermelha/","tags":["gardenEntry"]}
 ---
 
