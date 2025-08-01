@@ -7,9 +7,9 @@ A população de [[Governo & Locais/Locais/Akiton\|Akiton]] pode ser dividida em
 Apesar de seu clima relativamente inóspito, [[Governo & Locais/Locais/Akiton\|Akiton]] atraiu uma vasta gama de espécies, muitas das quais permaneceram mesmo após o colapso do [[thasterion\|thasterion]]. Ainda assim, cinco espécies inteligentes são nativas e dominantes, essas espécies comuns são.
 
 - [[Espécies & Culturas/Humanos\|Humanos]]
-- [[Ysokis\|Ysokis]]
-- [[Contemplativos\|Contemplativos]]
-- [[Ikeshtis\|Ikeshtis]] 
+- [[Espécies & Culturas/Ysokis\|Ysokis]]
+- [[Espécies & Culturas/Contemplativos\|Contemplativos]]
+- [[Espécies & Culturas/Ikeshtis\|Ikeshtis]] 
 - [[Espécies & Culturas/Shobhad-neh\|Shobhad-neh]]
 
 Membros de quase todas as espécies comuns do sistema dos Mundos do Pacto vivem em Akiton, as que tem maior quantidade são. 

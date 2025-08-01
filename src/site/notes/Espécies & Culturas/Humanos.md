@@ -4,7 +4,7 @@
 
 > Ambiciosos, criativos e infinitamente curiosos, os humanos mostraram mais foco em explorar seu sistema e o universo do que qualquer outra de suas raças vizinhas para o bem e para o mal. Eles ajudaram a instaurar uma nova era de comunicação e organização em todo o sistema e são admirados por sua paixão e tenacidade, mas sua tendência para atirar primeiro e pensar nas consequências depois pode torná-los um problema para as raças que, de outra forma, estariam inclinadas a trabalhar com eles.
 
-![Hylki.png|center|350](/img/user/Assets/Imagens/Hylki.png)
+![Hylki.png|right lp|350](/img/user/Assets/Imagens/Hylki.png)
 
 ### **Descrição Física**
 
