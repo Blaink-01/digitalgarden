@@ -18,3 +18,5 @@ Conflitos com os ysoki tornaram-se frequentes em Akiton devido à expansão popu
 ### **Nomes**
 
 Ikeshtis geralmente recebem nomes funcionais durante a infância, usados apenas por seus cuidadores. Na adolescência, adotam nomes próprios que refletem traços pessoais, conquistas ou aspirações — muitas vezes compostos por palavras simbólicas ou evocativas. Ex-membros de bandos adolescentes costumam manter apelidos informais entre si. Exemplos de nomes ikeshtis incluem: Zashkar, Kreel, Thassok, Renka, Dravich, Mok’neth, Velshi, Kask, Urrn e Braskal.
+
+[[Inicio\|Inicio]]

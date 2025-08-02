@@ -18,3 +18,5 @@ O preconceito e a subestimação por parte de raças maiores fizeram dos ysoki c
 ### **Nomes**
 
 Nomes ysoki costumam ser curtos, mesmo quando recebem nomes longos no nascimento — quase sempre são abreviados no uso cotidiano. Apelidos têm tanta importância quanto os nomes reais, e ysoki gostam de nomear seus amigos com base em traços de personalidade ou aparência, como “Petisco”, “Faísca”, “Espasmo”, “Boom-Boom” ou “Banholama”. Alguns ysoki adotam sobrenomes de família, mas muitos preferem o nome da nave ou assentamento de onde vieram. Exemplos de nomes ysoki incluem: Bena, Coponisa, Cors, Goba, Ketch, Kib, Lolo, Niknik, Quig, Resk, Sim e Twik.
+
+[[Inicio\|Inicio]]

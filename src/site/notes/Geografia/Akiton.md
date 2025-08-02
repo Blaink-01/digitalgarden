@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/geografia/akiton/"}
 ---
 
-![Akiton.png|340](/img/user/Assets/Imagens/Akiton.png)
+![Akiton.png|430](/img/user/Assets/Imagens/Akiton.png)
 
 | CATEGORIA           | INFORMAÇOES                                                       |
 | ------------------- | ----------------------------------------------------------------- |
@@ -66,8 +66,10 @@ Na direção oposta estão os [[Espécies & Culturas/Contemplativos\|Contemplati
 
 ### **Cidades**
 
-Entre os principais centros populacionais de Akiton estão [[Arl\|Arl]], conhecida por seus violentos esportes de sangue; [[Daza\|Daza]], uma cidade semi-irradiada; **Estuar**, cuja mineração de gelo é controlada por organizações criminosas; [[Grande Gwaz\|Grande Gwaz]], localizada em uma floresta influenciada pelas fadas; o [[Mercado-colmeia\|Mercado-colmeia]], o centro comercial mais bem-sucedido do planeta; e [[Maro\|Maro]], construída nas paredes da Fenda Edaio. Essas cidades abrigam a elite restante de Akiton, que controla as poucas minas de [[thasterIon\|thasterIon]] ativas ou mantém contratos lucrativos com corporações extraplanetárias para fabricar armas, armaduras e peças de naves. Os assentamentos menores são, em sua maioria, vilarejos corporativos, favelas ou postos avançados de colonos — todos marcados por uma vida difícil. As [[cidades-estado\|cidades-estado]] do planeta competem entre si e também contra clãs, corporações, tribos e facções extraplanetárias.
+Entre os principais centros populacionais de Akiton estão [[Arl\|Arl]], conhecida por seus violentos esportes de sangue; [[Daza\|Daza]], uma cidade semi-irradiada; [[Estuar\|Estuar]], cuja mineração de gelo é controlada por [[Facções & Organizações/Facções & Organizações\|organizações criminosas]]; [[Grande Gwaz\|Grande Gwaz]], localizada em uma floresta influenciada pelas fadas; o [[Mercado-colmeia\|Mercado-colmeia]], o centro comercial mais bem-sucedido do planeta; e [[Maro\|Maro]], construída nas paredes da Fenda Edaio. Essas cidades abrigam a elite restante de Akiton, que controla as poucas minas de [[thasterIon\|thasterIon]] ativas ou mantém contratos lucrativos com corporações extraplanetárias para fabricar armas, armaduras e peças de naves. Os assentamentos menores são, em sua maioria, vilarejos corporativos, favelas ou postos avançados de colonos — todos marcados por uma vida difícil. As [[cidades-estado\|cidades-estado]] do planeta competem entre si e também contra clãs, corporações, tribos e facções extraplanetárias.
 
 ### **Cultura**
 
 As batidas cruas do [[shumka akitoniano\|shumka akitoniano]] e o [[rock “olho-de-Absalom” \|rock “olho-de-Absalom” ]]ganharam popularidade em casas de shows mais rudes por todo o sistema dos Mundos do Pacto.
+
+[[Inicio\|Inicio]]
