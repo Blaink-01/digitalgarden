@@ -15,7 +15,7 @@ Um contemplativo pesa cerca de 45 kg, dos quais a maior parte corresponde ao seu
 
 ### **Sociedade e Tendência**
 
-Embora valorizem o isolamento para reflexão, os contemplativos também dependem da comunidade — seja mental, física ou simbólica. Preferem enclaves pequenos com comunicação telepática constante, mas integram-se bem em grupos como tripulações ou expedições. Quando sozinhos por muito tempo, alguns desenvolvem personalidades fictícias para simular companhia. Em geral, tendem à neutralidade, com ênfase no conhecimento e harmonia interna.
+Embora valorizem o isolamento para reflexão, os contemplativos também dependem da comunidade seja mental, física ou simbólica. Preferem enclaves pequenos com comunicação telepática constante, mas integram-se bem em grupos como tripulações ou expedições. Quando sozinhos por muito tempo, alguns desenvolvem personalidades fictícias para simular companhia. Em geral, tendem à neutralidade, com ênfase no conhecimento e harmonia interna.
 
 ### **Nomes**
 
