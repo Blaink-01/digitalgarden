@@ -3,9 +3,9 @@
 ---
 
 
-> Dotados de cérebros imensos e corpos atrofiados, os contemplativos são gênios psíquicos nativos de Akiton. Isolados por milênios nos Salões da Razão, dedicam suas vidas ao estudo de física, matemática e misticismo. Embora sua aparência cause estranhamento, seu intelecto é amplamente respeitado. Mesmo quando sozinhos, referem-se a si mesmos no plural, reforçando seu senso coletivo. Alguns seguem tradições puristas, outros abraçam a tecnologia, mas todos buscam uma verdade maior por meio do pensamento.
+> Dotados de cérebros imensos e corpos atrofiados, os contemplativos são gênios psíquicos nativos de [[Geografia/Akiton\|Akiton]]. Isolados por milênios nos [[Salões da Razão\|Salões da Razão]], dedicam suas vidas ao estudo de física, matemática e misticismo. Embora sua aparência cause estranhamento, seu intelecto é amplamente respeitado. Mesmo quando sozinhos, referem-se a si mesmos no plural, reforçando seu senso coletivo. Alguns seguem tradições puristas, outros abraçam a tecnologia, mas todos buscam uma verdade maior por meio do pensamento.
 
-![Contemplative.webp|right lp|360](/img/user/Assets/Imagens/Contemplative.webp)
+![Contemplative.webp|right lp|360](/img/user/Assets/Imagens/Ra%C3%A7as/Contemplative.webp)
 
 ### **Descrição Física**
 
