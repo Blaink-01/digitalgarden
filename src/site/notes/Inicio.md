@@ -25,4 +25,4 @@ views:
 [[Governo & Locais/Governo & Locais\|Governo & Locais]], as estruturas de poder e os pontos de interesse em Akiton.
 [[Espécies & Culturas/Lendas & Mitos\|Lendas & Mitos]], as histórias e crenças que ecoam nas dunas de Akiton.
 
-
+090-
