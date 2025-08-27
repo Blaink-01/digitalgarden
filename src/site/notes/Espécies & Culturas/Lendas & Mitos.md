@@ -37,14 +37,9 @@ Qualquer pessoa pode adorar uma divindade, mas aqueles que o fazem com verdadeir
 
 Alguns seres não adoram divindades, em vez disso seguindo uma filosofia para obter iluminação e compreensão. Ao longo dos séculos, as espécies sencientes dos [[Mundos do Pacto\|Mundos do Pacto]] criaram uma mistura de crenças, do agnosticismo ao disteísimo, o panteísmo e muito mais. As filosofias detalhadas abaixo são algumas das mais difundidas e bem conhecidas atualmente ativas nos [[Mundos do Pacto\|Mundos do Pacto]].
 
-- **A Canção do Silêncio**: Os adeptos da Canção do Silêncio acreditam na perfeição da não-vida. Os sábios ósseos de Eox reverentemente creditam à Canção do Silêncio a salvação de sua raça lhes ensinando a fórmula para se tornarem liches eternos.
-
-- **O Ciclo**: Introduzida aos Mundos do Pacto pelos kasathas, a filosofia dos solarianos ensina que a existência é um ciclo sem fim. Estrelas nascem, morrem e nascem de novo, alternadamente trazendo vida para o universo e a destruindo. O equilíbrio do cosmos repousa sobre o Ciclo, e ele conecta tudo no universo.
-
-- **A Fé Verde**: A filosofia do druidismo e da Fé Verde podem seras mais antigas nos Mundos do Pacto. O calor de um sol, o poder do vento e a beleza de uma planta selvagem são prova da complexidade e do poder da natureza. A Fé Verde ensina o respeito pela natureza e a viver em equilíbrio com o meio ambiente.
-
-- **As Profecias de Merkalis**: Com base nos registros dos sonhos de uma mística excêntrica, as Profecias de Merkalis prometem grande riqueza e sucesso aos adeptos que seguirem estritas proibições sexuais e dietéticas, vestindo exclusivamente branco e se abstendo de contato físico com qualquer pessoa que não siga este caminho.
-
-- **Sangpotshi**: Também conhecido como o Rio da Vida, o sangpotshi ensina que através da reencarnação e examinação das vidas passadas é possível alcançar a iluminação.
-
-- **Singularitismo**: Mais comum entre os anacites aballonianos, esta é a crença de que toda a vida acabará por se interligar como parte de uma vasta inteligência distribuída e que o avanço tecnológico é fundamental para acelerar a chegada desta divindade.
+- [[A Canção do Silêncio\|A Canção do Silêncio]]: Os adeptos da Canção do Silêncio acreditam na perfeição da não-vida. Os sábios ósseos de [[Eox\|Eox]] reverentemente creditam à Canção do Silêncio a salvação de sua raça lhes ensinando a fórmula para se tornarem liches eternos.
+- [[O Ciclo\|O Ciclo]]: Introduzida aos [[Mundos do Pacto\|Mundos do Pacto]] pelos [[Kasathas\|Kasathas]], a filosofia dos solarianos ensina que a existência é um ciclo sem fim. Estrelas nascem, morrem e nascem de novo, alternadamente trazendo vida para o universo e a destruindo. O equilíbrio do cosmos repousa sobre o Ciclo, e ele conecta tudo no universo.
+- [[A Fé Verde\|A Fé Verde]]: A filosofia do druidismo e da Fé Verde podem seras mais antigas nos [[Mundos do Pacto\|Mundos do Pacto]]. O calor de um sol, o poder do vento e a beleza de uma planta selvagem são prova da complexidade e do poder da natureza. A Fé Verde ensina o respeito pela natureza e a viver em equilíbrio com o meio ambiente.
+- [[As Profecias de Merkalis\|As Profecias de Merkalis]]: Com base nos registros dos sonhos de uma mística excêntrica, as Profecias de Merkalis prometem grande riqueza e sucesso aos adeptos que seguirem estritas proibições sexuais e dietéticas, vestindo exclusivamente branco e se abstendo de contato físico com qualquer pessoa que não siga este caminho.
+- [[Sangpotshi\|Sangpotshi]]: Também conhecido como o Rio da Vida, o sangpotshi ensina que através da reencarnação e examinação das vidas passadas é possível alcançar a iluminação.
+- [[Singularitismo\|Singularitismo]]: Mais comum entre os [[Anacites\|Anacites]] [[Aballon\|aballonianos]], esta é a crença de que toda a vida acabará por se interligar como parte de uma vasta inteligência distribuída e que o avanço tecnológico é fundamental para acelerar a chegada desta divindade.

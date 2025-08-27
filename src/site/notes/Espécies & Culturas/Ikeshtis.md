@@ -7,7 +7,7 @@
 ![Ikeshti.png|400](/img/user/Assets/Imagens/Ra%C3%A7as/Ikeshti.png)
 ### **Descrição Física**
 
-Ikeshtis possuem corpos delgados e escamosos, geralmente com cerca de 1,80 metro de altura. Ao nascerem, são pequenas criaturas famintas, quase irracionais, que se alimentam de qualquer matéria orgânica disponível. Com o crescimento, desenvolvem inteligência, habilidades motoras e rudimentos de linguagem. Durante a adolescência, ganham mobilidade e destreza, apresentando garras afiadas e espinhos nos cotovelos. Quando entram na fase de acasalamento, muitos sofrem transformações drásticas: escamas se endurecem, espinhos crescem, e a força física aumenta significativamente. Aqueles que sobrevivem ao ritual de acasalamento podem se tornar mentores de prole ou líderes comunitários — mas os que fracassam, degeneram em bestas ferozes conhecidas como riveners.
+Ikeshtis possuem corpos delgados e escamosos, geralmente com cerca de 1,00 metro de altura. Ao nascerem, são pequenas criaturas famintas, quase irracionais, que se alimentam de qualquer matéria orgânica disponível. Com o crescimento, desenvolvem inteligência, habilidades motoras e rudimentos de linguagem. Durante a adolescência, ganham mobilidade e destreza, apresentando garras afiadas e espinhos nos cotovelos. Quando entram na fase de acasalamento, muitos sofrem transformações drásticas: escamas se endurecem, espinhos crescem, e a força física aumenta significativamente. Aqueles que sobrevivem ao ritual de acasalamento podem se tornar mentores de prole ou líderes comunitários — mas os que fracassam, degeneram em bestas ferozes conhecidas como riveners.
 
 ### **Sociedade e Tendência**
 

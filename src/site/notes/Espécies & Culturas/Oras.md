@@ -5,9 +5,9 @@
 ![Oras.png](/img/user/Assets/Imagens/Divindade/Oras.png)
 ## Oras
 Agente da Mudança
-
-CN deus da adaptação, da evolução e daseleção natural
-**Centros de Adoração**: Bretheda, Castrovel, Liavara
+Caótico Neutro
+**Portfolio**: deus da adaptação, da evolução e da seleção natural
+**Centros de Adoração**: [[Bretheda\|Bretheda]], [[Castrovel\|Castrovel]], [[Liavara\|Liavara]]
 **Símbolo**: Uma dupla hélice
 
 Agaláxia está cheia de um vasto número de formas de vida complexas, sencientes ou não, mas a maioria destas espécies evoluiu ao longo de incontáveis gerações de organismos simples até o estado atual. Toda a vida passa por mudanças, seja por variação genética, mutação, seleção natural ou manipulação direta. Se estas mudanças são viáveis e bem-sucedidas, então a nova entidade prospera; se não, morre. Este é o curso da evolução e Oras incorpora este processo intricado, da menor mutação genética à extinção de uma ecosfera inteira. Oras em si é o produto desta progressão, tendo evoluído de algum organismo elementar a um inimaginavelmente sofisticado deus da mudança.
