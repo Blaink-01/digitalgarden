@@ -20,7 +20,7 @@
 > | Orbita | 1 |
 > | Gravidade | Sol |
 > | Sistema | Sistema dos [[Mundos do Pacto\|Mundos do Pacto]] |
-> | Habitantes          | [[Espécies & Culturas/Ysokis\|Ysokis]], [[Espécies & Culturas/Contemplativos\|Contemplativos]], <br>[[Espécies & Culturas/Ikeshtis\|Ikeshtis]], [[Espécies & Culturas/Shobhad-neh\|Shobhad-neh]] |
+> | Habitantes          | [[Espécies & Culturas/Ysokis\|Ysokis]], [[Espécies & Culturas/Contemplativos\|Contemplativos]], <br>[[Espécies & Culturas/Ikeshtis\|Ikeshtis]], [[Espécies & Culturas/Shobhads\|Shobhads]] |
 
 > Akiton é o terceiro planeta a partir do sol no sistema dos Mundos do Pacto e também é conhecido como o Planeta Vermelho, devido à cor vermelho-alaranjada de seu solo rico em ferro. No geral, Akiton é um mundo empobrecido, com poucas leis e sofrendo pressões ecológicas e econômicas que estão diminuindo gradualmente sua importância.
 
@@ -51,7 +51,7 @@ O início das viagens espaciais desencadeou um boom do [[thasterion\|thasterion]
 
 Uma enorme quantidade de destroços de naves estelares está espalhada por Akiton, parecendo ter caído todas na mesma época durante a [[Lacuna\|Lacuna]], o que sugere que uma batalha ocorreu tanto na superfície quanto em órbita do planeta.
 
-Em 422 d.P., quando o [[Colapso da Dobra \|Colapso da Dobra ]]interrompeu a viagem interplanar, investidores voltaram seu interesse para a antiga indústria de [[thasterion\|thasterion]] de Akiton, tentando refinar fontes impuras e pesquisar novas formas de viagem mais rápida que a luz. No entanto, devido à forte dependência de importações especialmente de alimentos o planeta foi empurrado para a beira da fome. Enquanto os ricos estocam comida, os pobres passam fome. Nas grandes cidades, muitos recorrem a vícios e esportes sangrentos para aliviar suas angústias. Os mais desesperados migram para a Recompensa e raramente são vistos novamente. Apenas os [[Espécies & Culturas/Shobhad-neh\|Shobhad]], acostumados à escassez, permaneceram praticamente imunes à crise.
+Em 422 d.P., quando o [[Colapso da Dobra \|Colapso da Dobra ]]interrompeu a viagem interplanar, investidores voltaram seu interesse para a antiga indústria de [[thasterion\|thasterion]] de Akiton, tentando refinar fontes impuras e pesquisar novas formas de viagem mais rápida que a luz. No entanto, devido à forte dependência de importações especialmente de alimentos o planeta foi empurrado para a beira da fome. Enquanto os ricos estocam comida, os pobres passam fome. Nas grandes cidades, muitos recorrem a vícios e esportes sangrentos para aliviar suas angústias. Os mais desesperados migram para a Recompensa e raramente são vistos novamente. Apenas os [[Espécies & Culturas/Shobhads\|Shobhad]], acostumados à escassez, permaneceram praticamente imunes à crise.
 
 ### **Habitantes**
 
@@ -63,7 +63,7 @@ Quase todas as espécies comuns dos Mundos do Pacto estão presentes em Akiton, 
 
 Fisicamente semelhantes aos humanos vermelhos, os [[Espécies & Culturas/Ikeshtis\|Ikeshtis]] répteis escamosos vivem em paz até que seus ciclos reprodutivos os tornem violentos.
 
-Os [[Espécies & Culturas/Shobhad-neh\|Shobhad]], nativos de quatro braços, quase foram extintos por interesses corporativos, mas recentemente tiveram um ressurgimento populacional. Sua vida tradicional os poupou da decadência que atingiu outros grupos, e atualmente são muito procurados como mercenários e batedores.
+Os [[Espécies & Culturas/Shobhads\|Shobhad]], nativos de quatro braços, quase foram extintos por interesses corporativos, mas recentemente tiveram um ressurgimento populacional. Sua vida tradicional os poupou da decadência que atingiu outros grupos, e atualmente são muito procurados como mercenários e batedores.
 
 Na direção oposta estão os [[Espécies & Culturas/Contemplativos\|Contemplativos]] a última raça nativa listada. Seus corpos físicos são quase vestigiais e servem apenas para sustentar cérebros altamente desenvolvidos. Exímios em tarefas sobrenaturais, passam grande parte do tempo meditando sobre assuntos esotéricos nos lendários [[Salões da Razão\|Salões da Razão]].
 

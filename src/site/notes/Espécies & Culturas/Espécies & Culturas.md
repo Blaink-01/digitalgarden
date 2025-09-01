@@ -10,7 +10,7 @@ Apesar de seu clima relativamente inóspito, [[Geografia/Akiton\|Akiton]] atraiu
 - [[Espécies & Culturas/Ysokis\|Ysokis]]
 - [[Espécies & Culturas/Contemplativos\|Contemplativos]]
 - [[Espécies & Culturas/Ikeshtis\|Ikeshtis]] 
-- [[Espécies & Culturas/Shobhad-neh\|Shobhad-neh]]
+- [[Espécies & Culturas/Shobhads\|Shobhads]]
 
 Membros de quase todas as espécies comuns do sistema dos Mundos do Pacto vivem em Akiton, as que tem maior quantidade são. 
 

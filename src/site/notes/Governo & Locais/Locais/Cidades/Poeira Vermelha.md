@@ -4,16 +4,18 @@
 
 > [!infobox]
 > # Poeira Vermelha
-> ![PoeiraVermlha Cidade.png|cover ](/img/user/Assets/Imagens/PoeiraVermlha%20Cidade.png)
+> ![PoeiraVermelhaCidadeMapa.png|cover hlarge](/img/user/Assets/PoeiraVermelhaCidadeMapa.png)
 > ###### Geografia
-> | Type | Stat |
+> | CATEGORIA | INFORMAÇAO |
 > | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
+> | Tipo | Cidade Empresarial |
+> | Região | [[Planalto de Arlkari\|Planalto de Arlkari]] |
+> | Tamanho | Cidade Pequena |
 > 
-> ##### Stats 2
-> | Type | Stat |
+> ##### Sociedade
+> | CATEGORIA | INFORMAÇAO |
 > | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
+> | Gentílico | ??? |
+> | Espécies | [[Espécies & Culturas/Humanos\|Humanos]],[[Espécies & Culturas/Ysokis\|Ysokis]],[[Espécies & Culturas/Shobhads\|Shobhads]],[[Shirren\|Shirren]], Outros  |
+> | Religião | ??? |
 
