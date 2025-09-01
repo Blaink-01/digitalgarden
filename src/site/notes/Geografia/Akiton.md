@@ -2,22 +2,25 @@
 {"dg-publish":true,"permalink":"/geografia/akiton/"}
 ---
 
-![Akiton.png|430](/img/user/Assets/Imagens/Akiton.png)
-
-| CATEGORIA           | INFORMAÇOES                                                       |
-| ------------------- | ----------------------------------------------------------------- |
-| Titulo              | Campo de Batalha                                                  |
-| Tipo                | Planeta                                                           |
-| Adjetivo            | Akitoniano                                                        |
-| Diametro            | 1/2                                                               |
-| Massa               | 1/12                                                              |
-| Gravidade           | 1/3                                                               |
-| Atimosfera          | [[Rarefeita\|Rarefeita]]                                                     |
-| Duração do Ano(HPP) | 2 Anos                                                            |
-| Duração do Dia(HPP) | 24 Horas 40 Minutos                                               |
-| Orbita              | Sol                                                               |
-| Sistema             | Sistema dos [[Mundos do Pacto\|Mundos do Pacto]]                                   |
-| Habitantes          | [[Espécies & Culturas/Ysokis\|Ysokis]], [[Espécies & Culturas/Contemplativos\|Contemplativos]], <br>[[Espécies & Culturas/Ikeshtis\|Ikeshtis]], [[Espécies & Culturas/Shobhad-neh\|Shobhad-neh]] |
+> [!infobox]
+> # Akiton
+> ![Akiton.png|cover ](/img/user/Assets/Imagens/Akiton.png)
+> ###### Geografia
+> | CATEGORIA | INFORMAÇOES |
+> | ---- | ---- |
+> | Titulo | Campo de Batalha |
+> | Tipo | Planeta |
+> | Adjetivo | Akitoniano |
+> | Diametro | 1/2 |
+> | Massa | 1/12 |
+> | Gravidade | 1/3 |
+> | Atimosfera | [[Rarefeita\|Rarefeita]] |
+> | Duração do Ano(HPP) | 2 Anos |
+> | Duração do Dia(HPP) | 24 Horas 40 Minutos |
+> | Orbita | 1 |
+> | Gravidade | Sol |
+> | Sistema | Sistema dos [[Mundos do Pacto\|Mundos do Pacto]] |
+> | Habitantes          | [[Espécies & Culturas/Ysokis\|Ysokis]], [[Espécies & Culturas/Contemplativos\|Contemplativos]], <br>[[Espécies & Culturas/Ikeshtis\|Ikeshtis]], [[Espécies & Culturas/Shobhad-neh\|Shobhad-neh]] |
 
 > Akiton é o terceiro planeta a partir do sol no sistema dos Mundos do Pacto e também é conhecido como o Planeta Vermelho, devido à cor vermelho-alaranjada de seu solo rico em ferro. No geral, Akiton é um mundo empobrecido, com poucas leis e sofrendo pressões ecológicas e econômicas que estão diminuindo gradualmente sua importância.
 
