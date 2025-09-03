@@ -75,4 +75,5 @@ Entre os principais centros populacionais de Akiton estão [[Arl\|Arl]], conheci
 
 As batidas cruas do [[shumka akitoniano\|shumka akitoniano]] e o [[rock “olho-de-Absalom” \|rock “olho-de-Absalom” ]]ganharam popularidade em casas de shows mais rudes por todo o sistema dos Mundos do Pacto.
 
-[[Inicio\|Inicio]]
+| [[Inicio\|↩ Inicio]] |
+| -------------------- |

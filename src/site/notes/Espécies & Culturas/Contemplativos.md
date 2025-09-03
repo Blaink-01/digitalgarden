@@ -21,4 +21,5 @@ Embora valorizem o isolamento para reflexão, os contemplativos também dependem
 
 Ao nascer, contemplativos recebem nomes curtos. Quando atingem a maturidade, escolhem nomes próprios inspirados em frases, teorias ou figuras que moldaram sua visão de mundo. Esses nomes, muitas vezes complexos e com referências numéricas, comunicam valores intelectuais a quem os entende. Exemplos incluem: **47 Solkrasti**, **Autochthonous 6:17**, **Terceora Constante de Eistor**, **Kallion em Teoria da Relatividade, e **Quinta Sonata de Xarstonax**.
 
-[[Inicio\|Inicio]]
+| [[Inicio\|↩ Inicio]] |
+| -------------------- |

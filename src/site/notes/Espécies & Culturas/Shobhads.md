@@ -27,4 +27,5 @@ Nomes shobhads são marcantes, muitas vezes inspirados por feitos guerreiros, pa
 **Femininos:** Veshna, Torka, Ijka, Naaveth, Zurran  
 **Títulos e sobrenomes comuns:** da Lança Quebrada, do Vento Cortante, Irmã da Rocha, Caçador dos Mortos, Filho de Ka
 
-[[Inicio\|Inicio]]
+| [[Inicio\|↩ Inicio]] |
+| -------------------- |

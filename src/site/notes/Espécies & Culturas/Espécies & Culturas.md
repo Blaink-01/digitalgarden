@@ -21,4 +21,5 @@ Membros de quase todas as espécies comuns do sistema dos Mundos do Pacto vivem 
 - [[Goblins\|Goblins]]
 
   
- [[Inicio\|Inicio]]
+| [[Inicio\|↩ Inicio]] |
+| -------------------- |

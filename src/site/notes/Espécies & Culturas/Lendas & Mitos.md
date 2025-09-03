@@ -43,3 +43,6 @@ Alguns seres não adoram divindades, em vez disso seguindo uma filosofia para ob
 - [[As Profecias de Merkalis\|As Profecias de Merkalis]]: Com base nos registros dos sonhos de uma mística excêntrica, as Profecias de Merkalis prometem grande riqueza e sucesso aos adeptos que seguirem estritas proibições sexuais e dietéticas, vestindo exclusivamente branco e se abstendo de contato físico com qualquer pessoa que não siga este caminho.
 - [[Sangpotshi\|Sangpotshi]]: Também conhecido como o Rio da Vida, o sangpotshi ensina que através da reencarnação e examinação das vidas passadas é possível alcançar a iluminação.
 - [[Singularitismo\|Singularitismo]]: Mais comum entre os [[Anacites\|Anacites]] [[Aballon\|aballonianos]], esta é a crença de que toda a vida acabará por se interligar como parte de uma vasta inteligência distribuída e que o avanço tecnológico é fundamental para acelerar a chegada desta divindade.
+
+| [[Inicio\|↩ Inicio]] |
+| -------------------- |

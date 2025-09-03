@@ -21,4 +21,5 @@ Nomes ysoki costumam ser curtos, mesmo quando recebem nomes longos no nascimento
 
 [Arquivos de Nethys](https://www.aonsrd.com/Races.aspx?ItemName=Ysoki)
 
-[[Inicio\|Inicio]]
+| [[Inicio\|↩ Inicio]] |
+| -------------------- |
