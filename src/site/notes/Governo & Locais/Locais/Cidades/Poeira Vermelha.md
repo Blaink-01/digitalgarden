@@ -15,11 +15,11 @@
 > ##### Sociedade
 > | CATEGORIA | INFORMAÇAO |
 > | ---- | ---- |
-> | Gentílico | ??? |
+> | Gentílico | Poerense |
 > | População | 3500 em 12DL        2300 em 16DL          0 em 101DL             64 em 292DL        354 em 322DL|
 > | Espécies | [[Espécies & Culturas/Humanos\|Humanos]] 38%     [[Espécies & Culturas/Ysokis\|Ysokis]] 29%      [[Espécies & Culturas/Shobhads\|Shobhads]] 21%     [[Shirren\|Shirren]] 10%     Outros 2%  |
 > | Alinhamento | Neutro  |
-> | Religião | [[Besmara\|Besmara]], [[Lao Shu Po\|Lao Shu Po]] e [[Pharasma\|Pharasma]]  |
+> | Religião | [[Besmara\|Besmara]], [[Lao Shu Po\|Lao Shu Po]] e [[Assets/Pharasma\|Pharasma]]  |
 >
 > ##### Comercio
 > | CATEGORIA | INFORMAÇAO |
@@ -63,13 +63,13 @@ Anos abandonada poucos viviam nas ruinas da cidade de forma permanente de repent
 
 Em 316 acontece a maior tragédia da cidade mortes que acorrem na mina são normais pelo fato de ser um local de alto risco mas nesse dia um estranho terremoto ocorreu durante uma expedição cerca de 30 pessoas foram feridos e 9 foram mortas.
 
-Econimia
+Economia
 ---
 Como forma de combater a crescente instabilidade pobreza da cidade nos primeiros anos foi tido uma ideia vender o terro da região para mantimento de lixo das cidades grandes mais próximas como [[Arl\|Arl]].
 
 Muitas pessoas da cidades vivem como mineradores e exploradores das minas atras do resto do [[thasterion\|thasterion]] é um trabalho perigoso e difícil mas o pouco de minério que conseguem pode gerar boa quantia de créditos com alguns kilos.
 
-Outro trabalho comum é de coletor pessoas que vasculham os lixos e ruinas ao redor da cidade atrás de objetos que possam ser concertados ou reutilizados para vendo ou uso próprio.
+Coletores são pessoas que vasculham os lixos e ruinas ao redor da cidade atrás de objetos que possam ser concertados ou reutilizados para vendo ou uso próprio.
 
 Habitantes
 ---
@@ -102,7 +102,7 @@ Residencia Sandersons
 ###### Lojas
 Ofina dos Zänkisch, loja mecânica da cidade
 ###### Outros
-[[Pharasma\|Igreja de Pharasma]], o único templo da cidade e cemitério 
+[[Assets/Pharasma\|Igreja de Pharasma]], o único templo da cidade e cemitério 
 Mina de [[thasterion\|thasterion]]rion, uma das principais fonte de renda da cidade
 
 | [[Inicio\|↩ Inicio]] |

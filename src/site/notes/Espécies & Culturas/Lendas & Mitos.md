@@ -24,7 +24,7 @@ Qualquer pessoa pode adorar uma divindade, mas aqueles que o fazem com verdadeir
 - [[Nyarlathotep\|Nyarlathotep]], O Caos Rastejante
 - [[O Devorador\|O Devorador]], O Comedor de Estrelas
 - [[Espécies & Culturas/Oras\|Oras]], Agente da Mudança
-- [[Pharasma\|Pharasma]], Senhora das Tumbas
+- [[Assets/Pharasma\|Pharasma]], Senhora das Tumbas
 - [[Sarenrae\|Sarenrae]], A Flor do Alvorecer
 - [[Talavet\|Talavet]], A Narradora
 - [[Triune\|Triune]], O Todo-Código
