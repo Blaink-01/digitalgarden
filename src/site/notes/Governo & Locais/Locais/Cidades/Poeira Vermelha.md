@@ -79,6 +79,16 @@ Os habitantes de poeira vermelha são de grande parte pessoas que vieram de outr
 [[NPCs/Poeira Vermelha/Epaminondas\|Epaminondas]], Humano dono do único bar da cidade
 [[Allowel Dill\|Allowel Dill]], Atual regente da cidade
 [[NPCs/Poeira Vermelha/Ni-ildar\|Ni-ildar]], Dona da única estalagem da cidade
+[[NPCs/Jogadores/Caio & Ferna/Helena Zänkisch\|Helena Zänkisch]]
+[[NPCs/Jogadores/Caio & Ferna/Viktor Zänkisch\|Viktor Zänkisch]]
+[[NPCs/Jogadores/Caio & Ferna/Teddy Zänkisch\|Teddy Zänkisch]]
+[[NPCs/Jogadores/Doug/Sirella iren\|Sirella iren]]
+[[NPCs/Jogadores/Doug/Tavreshk Iren\|Tavreshk Iren]]
+[[NPCs/Jogadores/Gui/Hector\|Hector]]
+[[NPCs/Jogadores/Gui/Samir'a\|Samir'a]]
+[[NPCs/Jogadores/Jorge/Althea Sanderson\|Althea Sanderson]]
+[[NPCs/Jogadores/Jorge/Peter\|Peter]]
+[[NPCs/Jogadores/Jorge/Robb\|Robb]]
 
 Locais Notáveis 
 ---
